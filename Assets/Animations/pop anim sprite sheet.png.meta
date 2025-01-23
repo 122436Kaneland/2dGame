@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: bade69e531c5bbb4c876c23158fe5bea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1635706196066353794
+    second: pop anim sprite sheet_0
+  - first:
+      213: -1995223128847535985
+    second: pop anim sprite sheet_1
+  - first:
+      213: -3589415231040114227
+    second: pop anim sprite sheet_2
+  - first:
+      213: 6304076837793507104
+    second: pop anim sprite sheet_3
+  - first:
+      213: 827301729897670731
+    second: pop anim sprite sheet_4
+  - first:
+      213: 7977560506021184288
+    second: pop anim sprite sheet_5
+  - first:
+      213: 9156906151160634029
+    second: pop anim sprite sheet_6
+  - first:
+      213: -8389107402910752274
+    second: pop anim sprite sheet_7
+  - first:
+      213: -4680706973619805091
+    second: pop anim sprite sheet_8
+  - first:
+      213: -6199895811766686902
+    second: pop anim sprite sheet_9
+  - first:
+      213: -5861320339860989847
+    second: pop anim sprite sheet_10
+  - first:
+      213: -321512092482318572
+    second: pop anim sprite sheet_11
+  - first:
+      213: 4464002736278097211
+    second: pop anim sprite sheet_12
+  - first:
+      213: -8034059407407302560
+    second: pop anim sprite sheet_13
+  - first:
+      213: -4132846043652243313
+    second: pop anim sprite sheet_14
+  - first:
+      213: 6651121283482719226
+    second: pop anim sprite sheet_15
+  - first:
+      213: -7099493928545055966
+    second: pop anim sprite sheet_16
+  - first:
+      213: 1046051006936130655
+    second: pop anim sprite sheet_17
+  - first:
+      213: 2188078109831325341
+    second: pop anim sprite sheet_18
+  - first:
+      213: 413677328525505507
+    second: pop anim sprite sheet_19
+  - first:
+      213: 4990101287632451763
+    second: pop anim sprite sheet_20
+  - first:
+      213: 3167087187724260304
+    second: pop anim sprite sheet_21
+  - first:
+      213: 5414557495986178663
+    second: pop anim sprite sheet_22
+  - first:
+      213: 1456250276271411935
+    second: pop anim sprite sheet_23
+  - first:
+      213: 2568667365376442605
+    second: pop anim sprite sheet_24
+  - first:
+      213: -7420618974262410011
+    second: pop anim sprite sheet_25
+  - first:
+      213: -5713777780432853443
+    second: pop anim sprite sheet_26
+  - first:
+      213: -5559746176478223204
+    second: pop anim sprite sheet_27
+  - first:
+      213: -5442073203432859183
+    second: pop anim sprite sheet_28
+  - first:
+      213: -7016024199297549837
+    second: pop anim sprite sheet_29
+  - first:
+      213: -7583407469626257415
+    second: pop anim sprite sheet_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pop anim sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 246
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d3f8a81edcc49e0800000000000000
+      internalID: -1635706196066353794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pop anim sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 231
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80366da22b8f44e0800000000000000
+      internalID: -1995223128847535985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pop anim sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 207
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc13a7a6dd5df2ec0800000000000000
+      internalID: -3589415231040114227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pop anim sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 196
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0272379cb749c7750800000000000000
+      internalID: 6304076837793507104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pop anim sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 195
+        width: 139
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48ed944a8a2b7b00800000000000000
+      internalID: 827301729897670731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pop anim sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 40
+        width: 130
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0230497630df5be60800000000000000
+      internalID: 7977560506021184288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pop anim sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 38
+        width: 115
+        height: 124
+      alignment: 9
+      pivot: {x: 0.4937927, y: 0.52042997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daad48d01add31f70800000000000000
+      internalID: 9156906151160634029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pop anim sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 41
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1a7e2b347e39b80800000000000000
+      internalID: -8389107402910752274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pop anim sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 45
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54a2b39ec9ca0fb0800000000000000
+      internalID: -4680706973619805091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pop anim sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 45
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4be63f8b9b85f9a0800000000000000
+      internalID: -6199895811766686902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a091925588880ac4384100bedf6654be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pop anim sprite sheet_0: -1635706196066353794
+      pop anim sprite sheet_1: -1995223128847535985
+      pop anim sprite sheet_10: -5861320339860989847
+      pop anim sprite sheet_11: -321512092482318572
+      pop anim sprite sheet_12: 4464002736278097211
+      pop anim sprite sheet_13: -8034059407407302560
+      pop anim sprite sheet_14: -4132846043652243313
+      pop anim sprite sheet_15: 6651121283482719226
+      pop anim sprite sheet_16: -7099493928545055966
+      pop anim sprite sheet_17: 1046051006936130655
+      pop anim sprite sheet_18: 2188078109831325341
+      pop anim sprite sheet_19: 413677328525505507
+      pop anim sprite sheet_2: -3589415231040114227
+      pop anim sprite sheet_20: 4990101287632451763
+      pop anim sprite sheet_21: 3167087187724260304
+      pop anim sprite sheet_22: 5414557495986178663
+      pop anim sprite sheet_23: 1456250276271411935
+      pop anim sprite sheet_24: 2568667365376442605
+      pop anim sprite sheet_25: -7420618974262410011
+      pop anim sprite sheet_26: -5713777780432853443
+      pop anim sprite sheet_27: -5559746176478223204
+      pop anim sprite sheet_28: -5442073203432859183
+      pop anim sprite sheet_29: -7016024199297549837
+      pop anim sprite sheet_3: 6304076837793507104
+      pop anim sprite sheet_30: -7583407469626257415
+      pop anim sprite sheet_4: 827301729897670731
+      pop anim sprite sheet_5: 7977560506021184288
+      pop anim sprite sheet_6: 9156906151160634029
+      pop anim sprite sheet_7: -8389107402910752274
+      pop anim sprite sheet_8: -4680706973619805091
+      pop anim sprite sheet_9: -6199895811766686902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
